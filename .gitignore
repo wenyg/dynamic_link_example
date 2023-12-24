@@ -1,0 +1,4 @@
+*.so
+*.o
+dynamic_link_example
+build
